@@ -1,6 +1,6 @@
 # Registration Form HTML Template
 
-![Registration Form](registration_screenshot.png)
+![Registration Form](https://drive.google.com/file/d/1iqnZ223fd-SOCiXG5KZ9z1Xytz6txP8A/view?usp=sharing)
 
 This repository contains a simple and user-friendly HTML template for a registration form. The form is designed to collect essential information from users who want to sign up for a service or platform.
 
