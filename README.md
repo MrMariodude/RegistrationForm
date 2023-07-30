@@ -1,6 +1,8 @@
 # Registration Form HTML Template
 
-![Registration Form](Screenshot_1.jpg)
+<img src="Screenshot_1.jpg" alt="preview" width="300" height="200">
+
+
 
 This repository contains a simple and user-friendly HTML template for a registration form. The form is designed to collect essential information from users who want to sign up for a service or platform.
 
