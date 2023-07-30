@@ -1,6 +1,6 @@
 # Registration Form HTML Template
 
-<img src="Screenshot_1.jpg" alt="preview" width="300" height="200">
+<img src="Screenshot_1.jpg" alt="preview" width="500" height="500">
 
 
 
